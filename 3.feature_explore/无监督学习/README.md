@@ -1,0 +1,14 @@
+**1_train_3000.ipynb**
+使用tag=1的、有标签的数据训练模型
+**1_train_30465.ipynb**
+使用tag=0的、有标签的数据训练模型
+**1_train_33465.ipynb**
+使用所有有标签的数据训练模型
+**explore.ipynb**
+查看所有有标签的数据已tag作为分割，对应的逾期率分布情况
+**get_thres_new.ipynb**
+比较三个模型的预测结果的分布情况
+**get_thres.ipynb**
+比较三个模型的预测结果的分布情况
+**train_use_unlabel.ipynb**
+加入原始无标签的数据（现已根据已有模型进行了打标），进行模型训练
